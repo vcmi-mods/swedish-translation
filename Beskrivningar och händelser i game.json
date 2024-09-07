@@ -1,0 +1,69 @@
+[33mcommit 1669661456357d6e2756ea8fd55b2e6fb7849b60[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mvcmi-1.4[m[33m)[m
+Author: Maurycy <maurycy.domaradzki@outlook.com>
+Date:   Sat Sep 7 05:11:11 2024 +0200
+
+    Uppdaterade beskrivningar och händelser i game.json
+
+A	content/config/vcmi-swedish/game.json
+
+[33mcommit a9ab10143537f193ea97c2c2937724d2cfd12660[m
+Author: Maurycy <maurycy.domaradzki@outlook.com>
+Date:   Sat Sep 7 04:54:02 2024 +0200
+
+    Uppdaterade beskrivningar och händelser
+
+M	swedish-translation/content/config/vcmi-swedish/game.json
+
+[33mcommit 9c9519c8ddaaa601d8a9e4fc22808410f6e5a535[m[33m ([m[1;31morigin/vcmi-1.4[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 53ba7d4 12799b3
+Author: misiokles <misiokles@gmail.com>
+Date:   Wed Dec 13 21:28:09 2023 +0100
+
+    Merge pull request #3 from Mr-Bajs/vcmi-1.4
+    
+    Fixes typos and polish
+
+[33mcommit 12799b3da2bc83a13074118856935e097761c4a3[m
+Author: Mr-Bajs <93934125+Mr-Bajs@users.noreply.github.com>
+Date:   Wed Dec 13 13:47:26 2023 +0000
+
+    Update game.json
+
+M	swedish-translation/content/config/vcmi-swedish/game.json
+
+[33mcommit baa8bf7dee6b11c31e0cbb3efaa80d5dd6f1c115[m
+Author: Mr-Bajs <93934125+Mr-Bajs@users.noreply.github.com>
+Date:   Wed Dec 13 13:46:37 2023 +0000
+
+    Update game.json
+
+M	swedish-translation/content/config/vcmi-swedish/game.json
+
+[33mcommit 53ba7d48bbc3ec49301da188f0e68ad92d3c8191[m
+Merge: 1bc76d4 617fcda
+Author: heroesiiifan <77574150+heroesiiifan@users.noreply.github.com>
+Date:   Tue Oct 24 21:02:23 2023 +0000
+
+    Merge pull request #2 from krs0/vcmi-1.4
+    
+    Fixed name for hero Torosar
+
+[33mcommit 617fcdad1229dd295fa0f335f8b5f1f2982a68da[m
+Author: krs <cristianlaczko@yahoo.com>
+Date:   Tue Oct 24 23:35:09 2023 +0300
+
+    Fixed name for hero Torosar
+
+M	swedish-translation/content/config/vcmi-swedish/game.json
+
+[33mcommit 1bc76d4e206090fcaed85f6d7ad807a0351ce217[m[33m ([m[1;31morigin/vcmi-1.3[m[33m)[m
+Author: misiokles <misiokles@gmail.com>
+Date:   Fri Jun 30 08:09:38 2023 +0200
+
+    Translation files
+
+A	swedish-translation/content/config/vcmi-swedish/campaigns.json
+A	swedish-translation/content/config/vcmi-swedish/game.json
+A	swedish-translation/content/config/vcmi-swedish/maps.json
+A	swedish-translation/content/data/bigfont.fnt
+A	swedish-translation/mod.json
