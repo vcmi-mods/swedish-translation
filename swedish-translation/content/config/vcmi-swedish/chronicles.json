@@ -1771,5 +1771,6 @@
 	"map.hc8_main:7.quest.66.68.0.completed": "En sten studsar mot din rustning, och sedan slutar vittrorna plötsligt att kasta saker på dig och din armé.\n\nEn av dem flyger ner och landar framför dig, klokt utom räckhåll.\n\n\"Du är Överherren Tarnum, eller hur?\" frågar vittran.\n\n\"Ja,\" säger du och gnuggar på bucklorna i din rustning.\n\n\"Passera omedelbart! Snälla!\"",
 	"map.hc8_main:7.quest.66.68.0.firstVisit": "När du närmar dig kastar några av vittrorna som svärmar runt detta torn stenar i din riktning. De varnar dig att de bara kommer att tala med sin ledare, Överherren Tarnum.",
 	"map.hc8_main:7.quest.66.68.0.nextVisit": "Du ignorerar vittrornas hot och närmar dig tornet. Men stenar och annat skräp regnar ner ovanifrån i sådan mängd att du tvingas vända om.",
-	"map.hc8_main:7.town.50.61.0.name": "Volee"
+	"map.hc8_main:7.town.50.61.0.name": "Volee",
+	"map.hc1_main:7.town.10.15.0.event.1.description": "Dina spioner rapporterar att det finns minst två slott och tre torn mellan dig och Slottet Stålhorn, men du har överraskat fienden.  Din hord anlände så snabbt att Bracaduun inte har hunnit bemanna dem alla.  Nu är det dock inte dags att slappna av.  Anfall snabbt så kommer du för alltid att ha ett övertag över dem."
 }

@@ -1,3 +1,19 @@
 {
-	
+	"map.xathras prize.town.88.25.1.name": "Sarhtax",
+	"map.wings of war.header.rumor.1.text": "Slottets tjänstefolk berättade för mig att Griparnas kung tog sig en älskarinna för några år sedan.  Det gick rykten om att hon var en trollkvinna.",
+	"map.wings of war.header.rumor.2.text": "Griparna inledde sina räder så plötsligt att man undrar om kungen blev förtrollad eller förgiftad.",
+	"map.wings of war.heroes.24.name": "Griparnas Kung",
+	"map.wings of war.monster.31.7.0.message": "Du ser gripar flyga runt sina bon.  De spanar in dig och störtdyker ner mot dig.",
+	"map.wings of war.town.68.36.0.name": "Griparnas Kung",
+	"map.xathras prize.event.0.description": "Det ryktas att ledarna i Xathras kommer att försöka döda alla hjältar som dyker upp, i hopp om att hitta Graalen först och därmed slippa betala belöningen!",
+	"map.xathras prize.event.1.description": "Ahhh, det finns inget som en fin kontant belöning för att få blodet att rusa. Fram till idag var du inte ens säker på att staden Xathras existerade, men nu har du brevet i dina händer, undertecknat av Xian, härskare över Xathras, som erbjuder en belöning på EN MILJON guld till den som för Graalen till hans stad.",
+	"map.xathras prize.event.2.description": "När du sätter dig ner för att äta frukost kommer en rådgivare fram med nyheter. Tydligen skickades brevet du fick även till de andra rikena i landet, med samma erbjudna belöning, och de andra ledarna mobiliserar sannolikt sina styrkor i detta ögonblick. Andra kommer också att söka efter den!",
+	"map.xathras prize.guards.97.68.1.message": "De dödas spöken reser sig och attackerar dig!",
+	"map.xathras prize.guards.98.70.1.message": "Spöken från det förflutna reser sig ur sarkofagen och attackerar!",
+	"map.xathras prize.header.description": "Den mytomspunna grottstaden Xathras letar efter Graalen. För att påskynda sökandet utlovar Xathras råd en fantastisk belöning till den som kan föra Graalen till deras stad.",
+	"map.xathras prize.header.name": "Xathras Belöning",
+	"map.xathras prize.sign.60.14.0.message": "Trevors landomgärdade piratskatt... tillträde förbjudet!",
+	"map.xathras prize.sign.61.92.0.message": "Strömvirvlar är farliga, undvik dem om möjligt!",
+	"map.xathras prize.sign.94.68.1.message": "Våra Okändas Grav - Rör Inte!",
+	"map.xathras prize.town.7.105.1.name": "Xathras"
 }
